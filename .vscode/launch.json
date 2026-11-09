@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ReferenceTableau",
+            "request": "launch",
+            "mainClass": "ReferenceTableau",
+            "projectName": "JAVA_6eb13600"
+        },
+        {
+            "type": "java",
+            "name": "RechercheStock",
+            "request": "launch",
+            "mainClass": "RechercheStock",
+            "projectName": "JAVA_6eb13600"
+        },
+        {
+            "type": "java",
+            "name": "JourClassique",
+            "request": "launch",
+            "mainClass": "JourClassique",
+            "projectName": "JAVA_6eb13600"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Bienvenue",
+            "request": "launch",
+            "mainClass": "Bienvenue",
+            "projectName": "JAVA_6eb13600"
+        },
+        {
+            "type": "java",
+            "name": "ConversionDeDurée",
+            "request": "launch",
+            "mainClass": "ConversionDeDurée",
+            "projectName": "JAVA_6eb13600"
+        },
+        {
+            "type": "java",
+            "name": "Limites",
+            "request": "launch",
+            "mainClass": "Limites",
+            "projectName": "JAVA_6eb13600"
+        },
+        {
+            "type": "java",
+            "name": "Presentation",
+            "request": "launch",
+            "mainClass": "Presentation",
+            "projectName": "JAVA_6eb13600"
+        },
+        {
+            "type": "java",
+            "name": "Recu",
+            "request": "launch",
+            "mainClass": "Recu",
+            "projectName": "JAVA_6eb13600"
+        },
+        {
+            "type": "java",
+            "name": "SaisirCommande",
+            "request": "launch",
+            "mainClass": "SaisirCommande",
+            "projectName": "JAVA_6eb13600"
+        },
+        {
+            "type": "java",
+            "name": "ValidationTelephone",
+            "request": "launch",
+            "mainClass": "ValidationTelephone",
+            "projectName": "JAVA_6eb13600"
+        }
+    ]
+}

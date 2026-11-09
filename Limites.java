@@ -1,0 +1,14 @@
+public class Limites {
+    public static void main(String[] args){
+         System.out.println("byte:"+ Byte.MIN_VALUE +"à" + Byte.MAX_VALUE);
+         System.out.println("short:" +Short.MIN_VALUE +"à" + Short.MAX_VALUE);
+         System.out.println("int:" +Integer.MIN_VALUE +"à" + Integer.MAX_VALUE);
+         System.out.println("long:" +Long.MIN_VALUE +"à" + Long.MAX_VALUE);
+         System.out.println("double max:"  +Double.MAX_VALUE);
+         char C = "A";
+          System.out.println("Code Unique")
+
+
+    }
+    
+}
